@@ -6,8 +6,10 @@
 
 2. `dotnet restore`
 
-3. `dotnet build`
+3. `npm install`
 
-4. `dotnet ef database update`
+4. `dotnet build`
 
-5. `dotnet run`
+5. `dotnet ef database update`
+
+6. `dotnet run`
